@@ -14,5 +14,7 @@ Desenvolva um programa utilizando o FreeRTOS para o ESP32 que:
 - Lab4: https://wokwi.com/projects/406337968407684097
 
 Funcionamento das Tasks:
+
 Task 1 (monitor_button): Monitora o estado do botão conectado ao pino 12. Quando o botão é pressionado, a tarefa envia um sinal pelo semáforo binário (xSemaphoreGive).
+
 Task 2 (read_adc): Fica aguardando a sinalização do semáforo. Quando a task 1 sinaliza que o botão foi pressionado, essa tarefa realiza a leitura do ADC no pino 4 e imprime o valor no monitor serial.
