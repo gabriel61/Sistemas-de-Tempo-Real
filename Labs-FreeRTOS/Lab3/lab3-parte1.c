@@ -37,3 +37,5 @@ void setup() {
 void loop() {
     // O loop está vazio pq as tasks FreeRTOS estão em execução
 }
+
+// Link do projeto no Wokwi: https://wokwi.com/projects/406256247696776193
