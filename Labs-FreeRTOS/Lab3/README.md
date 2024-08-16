@@ -13,6 +13,8 @@ Modifique o código da parte 1 para:
 - Além de piscar o led, a tarefa 1 (período=1000ms) deve ler um botão e, se acionado, pausar/resumir a tarefa 2.
 - Além de piscar o led, a tarefa 2 (período=500ms) deve ler um botão e, se acionado, pausar/resumir a tarefa 3.
 
+---
+
 ## Links das simulações no Wokwi disponível em:
 
 - Parte 1:   https://wokwi.com/projects/406256247696776193
