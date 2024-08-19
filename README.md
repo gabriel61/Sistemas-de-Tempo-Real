@@ -64,7 +64,7 @@ Carga total de CPU: 2.378%
 
 ### Estrutura de Arquivos
 
-- `main.c`: Contém o código principal do projeto.
+- [cyclic_executive/main/main.c](https://github.com/gabriel61/Sistemas-de-Tempo-Real/blob/main/cyclic_executive/main/main.c): Contém o código principal do projeto.
 
 ### Como Executar
 
